@@ -1,0 +1,1 @@
+<!--配置mybatis逆向工程，以自动生成：mapper.xml,mapper（写sql的地方）.java（调用sql的接口）,实体类（Pojo,entity,model）-->
