@@ -55,6 +55,21 @@
             <artifactId>spark-streaming-kafka_2.10</artifactId>
             <version>1.6.0</version>
         </dependency>
+         <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-sql_2.10</artifactId>
+            <version>1.6.0-cdh5.7.1</version>
+        </dependency>
+         <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-hive_2.10</artifactId>
+            <version>1.6.0-cdh5.7.1</version>
+        </dependency>
+           <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.35</version>
+        </dependency>
     </dependencies>
     
 </project>
